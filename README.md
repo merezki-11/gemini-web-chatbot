@@ -9,19 +9,19 @@ A full-stack AI tutor chatbot powered by Google Gemini 2.5 Flash. Built with a F
 ## Screenshots
 
 ### Welcome Screen (Offline — Backend Waking Up)
-![Welcome Screen Offline](images/Screenshot_2026-03-28_164058.png)
+![Welcome Screen Offline](images/Screenshot%202026-03-28%20164058.png)
 
 ### Welcome Screen (Online)
-![Welcome Screen Online](images/Screenshot_2026-03-28_164128.png)
+![Welcome Screen Online](images/Screenshot%202026-03-28%20164128.png)
 
 ### Typing Animation
-![Typing Animation](images/Screenshot_2026-03-28_164217.png)
+![Typing Animation](images/Screenshot%202026-03-28%20164217.png)
 
 ### AI Response with Markdown
-![AI Response](images/Screenshot_2026-03-28_164247.png)
+![AI Response](images/Screenshot%202026-03-28%20164247.png)
 
 ### Full Detailed Explanation
-![Detailed Explanation](images/Screenshot_2026-03-28_164329.png)
+![Detailed Explanation](images/Screenshot%202026-03-28%20164329.png)
 
 ---
 
